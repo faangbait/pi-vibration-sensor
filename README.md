@@ -32,5 +32,5 @@ vibe() {
 
 4. Filename is the current Unix epoch. use epochconverter.com to make it human-readable
 
-## Debugging:
+## Debugging
 - Turn it off and on again?
